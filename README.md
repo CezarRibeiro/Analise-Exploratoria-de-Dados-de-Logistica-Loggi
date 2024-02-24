@@ -1,2 +1,3 @@
 # Analise-Exploratoria-de-Dados-de-Logistica-Loggi
-Análise Exploratória de Dados de Logística Loggi do curso da EBAC.
+
+Durante o curso de Análise de Dados na EBAC (**Escola Britânica de Artes Criativas e Tecnologia**), foi conduzida uma análise exploratória de dados da Loggi, uma startup brasileira de logística e parceira da escola. O projeto envolveu a investigação do repositório Loggi Benchmark for Urban Deliveries (**BUD**), focalizando nas entregas em Brasília (DF) em formato **JSON**. O processo incluiu coleta, limpeza de dados, visualizações e insights, utilizando a geocodificação reversa do GeoPandas para mapear o Distrito Federal, abrangendo pontos de entrega e **hubs**.
